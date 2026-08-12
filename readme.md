@@ -73,9 +73,6 @@ The project uses **SQLite**, so no separate MySQL server is required.
 
 The database stores employee records in an `employees` table.
 
-## Screenshots
-
-Add screenshots of the application here after uploading them to the repository.
 
 ## Future Improvements
 
